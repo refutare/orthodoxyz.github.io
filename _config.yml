@@ -1,2 +1,3 @@
 name: Refutare 
 markdown: md
+permalink: /blog/:year/:month/:day/:title
